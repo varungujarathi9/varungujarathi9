@@ -34,11 +34,19 @@ A little bit about me:
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 
-🔗 Links:
+🔗 **Connect with me**:
 
-- Portfolio website: [varungujarathi.dev](https://varungujarathi.dev)  
-- LinkedIn: [linkedin.com/in/varungujarathi](https://linkedin.com/in/varungujarathi)
-- Blog: [dev.to/varungujarathi9](https://dev.to/varungujarathi9)
+[![Mail][1.1]][1] [![LinkedIn][2.1]][2] [![Website][3.1]][3] [![dev.to][4.1]][4]
+
+[1.1]: https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[2.1]: https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[3.1]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white  
+[4.1]: https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white
+
+[1]: mailto:v.gujarathi777@gmail.com
+[2]: https://www.linkedin.com/in/varungujarathi
+[3]: https://varungujarathi.dev
+[4]: https://dev.to/varungujarathi9
 
 💬 Ask me about anything! I'm always happy to chat and collaborate. 
 
