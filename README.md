@@ -14,10 +14,10 @@ A little bit about me:
   <img src="https://github-profile-trophy.vercel.app/?username=varungujarathi9&theme=onedark&column=7&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=varungujarathi9&show_icons=true&theme=merko" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=varungujarathi9&theme=merko" />
-</p>
+</p>-->
 
 <!--<p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=varungujarathi9&theme=merko&langs_count=10" />
