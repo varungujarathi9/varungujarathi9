@@ -22,7 +22,7 @@ A little bit about me:
 <!--<p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=varungujarathi9&theme=merko&langs_count=10" />
 </p>-->
-[![An image of @varungujarathi9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varungujarathi9)](https://holopin.io/@varungujarathi9)
+<!--[![An image of @varungujarathi9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varungujarathi9)](https://holopin.io/@varungujarathi9)-->
 
 
 💻 **Languages and Tools:**
