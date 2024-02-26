@@ -11,7 +11,7 @@ A little bit about me:
 - :ping_pong: When I'm not coding, I'm busy reading or playing table tennis
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varungujarathi9&theme=onedark&column=7&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://github-profile-trophy.vercel.app/?username=varungujarathi9&theme=onedark&column=6&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B" />
 </p>
 
 <!--<p align="center">
