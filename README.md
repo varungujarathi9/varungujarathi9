@@ -7,7 +7,7 @@ A little bit about me:
 - :hammer: I build secure, scalable, reliable software
 - :computer: I live and breathe code (mainly Java, JavaScript, Python)
 - :rocket: Always ready to launch new side projects and collaborate
-- :nerd_face: I am geeky and I love challenges
+- :nerd_face: I am a nerd and I love challenges
 - :ping_pong: When I'm not coding, I'm busy reading or playing table tennis
 
 <p align="center">
