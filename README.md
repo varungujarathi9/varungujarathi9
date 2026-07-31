@@ -25,7 +25,7 @@ A little bit about me:
 <!--[![An image of @varungujarathi9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varungujarathi9)](https://holopin.io/@varungujarathi9)-->
 
 
-💻 **Languages and Tools:**
+<!--💻 **Languages and Tools:**
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -34,6 +34,7 @@ A little bit about me:
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring"  width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+-->
 
 🔗 **Connect with me**:
 
